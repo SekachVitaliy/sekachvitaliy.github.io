@@ -1,6 +1,6 @@
 {
-  "homepage": "http://SekachVitaliy.github.io/sekachvitaliy.github.io",
-  "name",: "knowledge-checker",
+  "homepage": "https://sekachvitaliy.github.io/",
+  "name": "knowledge-checker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
